@@ -15,7 +15,7 @@ while x < 600:
         print('Loss')
     netFee = (topask + topbid) * tradefee
     print(netFee)
-    x = x + 1
+    x += 1
 
 
 #Account ID: up108093172
