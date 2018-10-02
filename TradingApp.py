@@ -17,11 +17,6 @@ while x < 600:
     print(netFee)
     x += 1
 
-
-#Account ID: up108093172
-#Key: 75Agih0SMZKysoskBVxJ9bcc0E
-#Secret: 8oMWRyVQv1fio0lwnFVMMUu3ObY
-
 requests.get('https://cex.io/api/balance/')
 
 APIrequest = API()
